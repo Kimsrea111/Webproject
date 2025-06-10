@@ -90,12 +90,12 @@
           class="flex justify-between items-center mt-20 font-khmer text-yellow-200 text-2xl md:text-3xl md:w-1/2 mx-auto"
         >
           <div>
-            <div>លោក ប្រាក់ ភា</div>
-            <div>លោកស្រី ស្រស់ សោភា</div>
+            <div>លោក ណៃ សាលឿត</div>
+            <div>លោកស្រី រឿន ធៀប</div>
           </div>
           <div>
-            <div>លោក អាន សុភាព</div>
-            <div>លោកស្រី ហៀក ផានី</div>
+            <div>លោក សេន គ្រី</div>
+            <div>លោកស្រី ឈិន មុំ</div>
           </div>
         </div>
         <div  
@@ -112,8 +112,8 @@
             <div class="text-yellow-500 text-2xl md:text-3xl font-khmer-kh">
               កូនប្រុសនាម
             </div>
-            <div class="text-2xl md:text-5xl mt-4 md:mt-10">ភា</div>
-            <div class="text-2xl md:text-5xl mt-2 md:mt-10">គីមស្រ៊ៀ</div>
+            <div class="text-2xl md:text-5xl mt-4 md:mt-10">សាលឿត</div>
+            <div class="text-2xl md:text-5xl mt-2 md:mt-10">ភត្រា</div>
           </div>
           <div class="w-[100px] md:w-[200px] font-bold mt-10">
             <img src="/src/assets/generatedtext.png" alt="" />
@@ -122,15 +122,15 @@
             <div class="text-yellow-500 text-2xl md:text-3xl font-khmer-kh">
               កូនស្រីនាម
             </div>
-            <div class="text-2xl md:text-5xl mt-4 md:mt-10">ហុង</div>
-            <div class="text-2xl md:text-5xl mt-2 md:mt-10">ស៊ីវម៉េង</div>
+            <div class="text-2xl md:text-5xl mt-4 md:mt-10">គ្រី</div>
+            <div class="text-2xl md:text-5xl mt-2 md:mt-10">ស្រីនាថ</div>
           </div>
         </div>
         <div class="text-yellow-500 text-2xl md:text-3xl font-khmer-kh mt-10">
           ដែលនឹងប្រព្រឹត្តទៅ ចាប់ពីម៉ោង ៤ ល្ងាច
         </div>
         <div class="text-3xl md:text-5xl mt-4 md:mt-10 font-khmer">
-          ថ្ងៃអាទិត្យ ទី០២ ខែវិច្ឆិកា ឆ្នាំ២០២៥
+          ថ្ងៃអាទិត្យទី២៣ ខែមីនា ឆ្នាំ២០២៥
         </div>
         <button
           class="flex justify-center items-center mt-10 font-khmer-kh text-yellow-500 border-2 border-yellow-500 px-4 py-2 rounded-full mx-auto"
@@ -217,7 +217,7 @@
               "
               class="cursor-pointer mr-10"
             >
-              ០១ វិច្ឆិកា
+              ២២ មីនា
             </div>
             <div
               @click="selectedDay = 'day23'"
@@ -226,7 +226,7 @@
               "
               class="cursor-pointer"
             >
-              ០២ វិច្ឆិកា
+              ២៣ មីនា
             </div>
           </div>
 
