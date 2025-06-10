@@ -43,10 +43,10 @@
         ដែលនឹងប្រព្រឹត្តទៅនៅ
       </div>
       <div class="text-3xl md:text-5xl mt-4 md:mt-10 font-khmer">
-        ថ្ងៃសៅរ៍ ទី០១ ខែវិច្ឆិកា ឆ្នាំ២០២៥
+        ថ្ងៃអាទិត្យទី០១ ខែវិច្ឆិកា ឆ្នាំ២០២៥
       </div>
       <div class="text-yellow-500 text-xl md:text-3xl font-khmer-kh mt-10">
-        នៅក្នុងក្រុងស្ទឹងត្រែងក្បែរផ្សារសាមគ្គីស្ទឹងត្រែង
+        ចុះពីស្ពានផ្លូវកាត់ចំងាយ៥០០ម៉ែត្រ
       </div>
       <button
         class="flex justify-center items-center mt-10 font-khmer-kh text-yellow-500 border-2 border-yellow-500 px-4 py-2 rounded-full"
