@@ -17,7 +17,7 @@ const goToContent = () => {
     <!-- Show Home component if showHome is true -->
     <Home v-if="showHome" @openContent="goToContent" />
     <audio class="hidden-audio" controls autoplay loop>
-      <source src="/src/assets/Westlife - Beautiful in White.mp3" type="audio/mpeg">
+      <source src="/src/assets/PKS & HSM Invitation.mp3" type="audio/mpeg">
     </audio>
     <!-- Show router-view when Home is hidden -->
     <router-view v-if="!showHome"></router-view>
