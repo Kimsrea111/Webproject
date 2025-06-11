@@ -50,7 +50,7 @@
       </div>
       <button
         class="flex justify-center items-center mt-10 font-khmer-kh text-yellow-500 border-2 border-yellow-500 px-4 py-2 rounded-full"
-        onclick="window.open('https://www.google.com/maps/@12.7814201,103.4533178,182m/data=!3m1!1e3?entry=ttu&g_ep=EgoyMDI1MDIyNi4xIKXMDSoASAFQAw%3D%3D', '_blank')"
+        onclick="window.open('https://maps.app.goo.gl/63D5XgXpB4mmsnD9A', '_blank')"
       >
         <div class="text-2xl md:text-4xl">បើកផែនទី</div>
 
@@ -134,7 +134,7 @@
         </div>
         <button
           class="flex justify-center items-center mt-10 font-khmer-kh text-yellow-500 border-2 border-yellow-500 px-4 py-2 rounded-full mx-auto"
-          onclick="window.open('https://www.google.com/maps/@12.7814201,103.4533178,182m/data=!3m1!1e3?entry=ttu&g_ep=EgoyMDI1MDIyNi4xIKXMDSoASAFQAw%3D%3D', '_blank')"
+          onclick="window.open('https://maps.app.goo.gl/63D5XgXpB4mmsnD9A', '_blank')"
         >
           <div class="text-2xl md:text-4xl">កត់ទុកក្នុងប្រតិទិន</div>
 
@@ -170,14 +170,14 @@
           <div>
             <img
               class="md:w-96 w-60"
-              src="/src/assets/photo_2025-03-05_22-07-42.jpg"
+              src="/src/assets/PKS1.jpg"
               alt=""
             />
           </div>
           <div>
             <img
               class="md:w-96 w-60"
-              src="/src/assets/photo_2025-03-05_22-07-18.jpg"
+              src="/src/assets/PKS6.jpg"
               alt=""
             />
           </div>
@@ -186,14 +186,14 @@
           <div>
             <img
               class="md:w-96 w-60"
-              src="/src/assets/photo_2025-03-05_22-07-37.jpg"
+              src="/src/assets/PKS7.jpg"
               alt=""
             />
           </div>
           <div>
             <img
               class="md:w-96 w-60"
-              src="/src/assets/photo_2025-03-05_22-07-47.jpg"
+              src="/src/assets/PKS8.jpg"
               alt=""
             />
           </div>
